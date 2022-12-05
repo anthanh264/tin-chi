@@ -1,6 +1,6 @@
-let download_path = "./4_ky2_2021_2022.xlsx";
-let download_name = "4_ky2_2021_2022.xlsx";
-let title = "Kì 2 Năm học 2021 - 2022";
+let download_path = "./TKB kỳ 2- 2022-2023 - Hồng.xlsx";
+let download_name = "TKB kỳ 2- 2022-2023 - Hồng.xlsx";
+let title = "Kì 2 Năm học 2022 - 2023";
 
 // ---
 
